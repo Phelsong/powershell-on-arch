@@ -1,1 +1,1 @@
-sudo mkinitpcio -P
+sudo mkinitcpio -P
